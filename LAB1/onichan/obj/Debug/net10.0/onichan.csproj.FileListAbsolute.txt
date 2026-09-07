@@ -1,0 +1,14 @@
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\bin\Debug\net10.0\onichan.exe
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\bin\Debug\net10.0\onichan.deps.json
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\bin\Debug\net10.0\onichan.runtimeconfig.json
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\bin\Debug\net10.0\onichan.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\bin\Debug\net10.0\onichan.pdb
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\obj\Debug\net10.0\onichan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\obj\Debug\net10.0\onichan.AssemblyInfoInputs.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\obj\Debug\net10.0\onichan.AssemblyInfo.cs
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\obj\Debug\net10.0\onichan.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\obj\Debug\net10.0\onichan.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\obj\Debug\net10.0\refint\onichan.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\obj\Debug\net10.0\onichan.pdb
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\obj\Debug\net10.0\onichan.genruntimeconfig.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB1\onichan\obj\Debug\net10.0\ref\onichan.dll

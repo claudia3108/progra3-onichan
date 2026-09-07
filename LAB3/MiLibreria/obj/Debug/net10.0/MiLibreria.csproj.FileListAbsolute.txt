@@ -1,0 +1,11 @@
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\bin\Debug\net10.0\MiLibreria.deps.json
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\bin\Debug\net10.0\MiLibreria.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\bin\Debug\net10.0\MiLibreria.pdb
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\obj\Debug\net10.0\MiLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\obj\Debug\net10.0\MiLibreria.AssemblyInfoInputs.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\obj\Debug\net10.0\MiLibreria.AssemblyInfo.cs
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\obj\Debug\net10.0\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\obj\Debug\net10.0\MiLibreria.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\obj\Debug\net10.0\refint\MiLibreria.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\obj\Debug\net10.0\MiLibreria.pdb
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\MiLibreria\obj\Debug\net10.0\ref\MiLibreria.dll

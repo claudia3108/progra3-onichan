@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 25.0.4.1 (Oracle Corporation)
+Class-Path: libreria.jar
+Main-Class: Principal
+
+

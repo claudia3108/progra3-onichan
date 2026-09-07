@@ -1,0 +1,14 @@
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\bin\Debug\net10.0\console_ga.exe
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\bin\Debug\net10.0\console_ga.deps.json
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\bin\Debug\net10.0\console_ga.runtimeconfig.json
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\bin\Debug\net10.0\console_ga.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\bin\Debug\net10.0\console_ga.pdb
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\obj\Debug\net10.0\console_ga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\obj\Debug\net10.0\console_ga.AssemblyInfoInputs.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\obj\Debug\net10.0\console_ga.AssemblyInfo.cs
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\obj\Debug\net10.0\console_ga.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\obj\Debug\net10.0\console_ga.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\obj\Debug\net10.0\refint\console_ga.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\obj\Debug\net10.0\console_ga.pdb
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\obj\Debug\net10.0\console_ga.genruntimeconfig.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\console_ga\obj\Debug\net10.0\ref\console_ga.dll

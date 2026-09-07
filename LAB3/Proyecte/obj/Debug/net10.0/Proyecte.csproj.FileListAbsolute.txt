@@ -1,0 +1,14 @@
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\bin\Debug\net10.0\Proyecte.exe
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\bin\Debug\net10.0\Proyecte.deps.json
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\bin\Debug\net10.0\Proyecte.runtimeconfig.json
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\bin\Debug\net10.0\Proyecte.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\bin\Debug\net10.0\Proyecte.pdb
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\obj\Debug\net10.0\Proyecte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\obj\Debug\net10.0\Proyecte.AssemblyInfoInputs.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\obj\Debug\net10.0\Proyecte.AssemblyInfo.cs
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\obj\Debug\net10.0\Proyecte.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\obj\Debug\net10.0\Proyecte.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\obj\Debug\net10.0\refint\Proyecte.dll
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\obj\Debug\net10.0\Proyecte.pdb
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\obj\Debug\net10.0\Proyecte.genruntimeconfig.cache
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3\LAB3\Proyecte\obj\Debug\net10.0\ref\Proyecte.dll
