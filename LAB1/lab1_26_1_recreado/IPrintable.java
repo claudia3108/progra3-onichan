@@ -1,3 +1,0 @@
-interface IPrintable{
-	String devolverDatos();	
-}
