@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 25.0.4.1 (Oracle Corporation)
+Class-Path: assessmentExamModel.jar assessmentManagerModel.jar assessmentQuestionModel.jar assessmentTeacherModel.jar
+Main-Class: pe.edu.pucp.assessment.program.main.Main
+
+

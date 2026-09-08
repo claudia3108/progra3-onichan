@@ -1,0 +1,75 @@
+1.
+\mi_lab4_26_1> javac pregunta_2/pe/edu/pucp/assessment/question/model/*.java
+
+2.
+\mi_lab4_26_1\pregunta_2> jar cvf assessmentQuestionModel.jar pe/edu/pucp/assessment/question/model/*.class
+added manifest
+adding: pe/edu/pucp/assessment/question/model/MultipleChoiceQuestion.class(in = 1760) (out= 855)(deflated 51%)
+adding: pe/edu/pucp/assessment/question/model/Printable.class(in = 184) (out= 153)(deflated 16%)
+adding: pe/edu/pucp/assessment/question/model/Question.class(in = 544) (out= 333)(deflated 38%)
+adding: pe/edu/pucp/assessment/question/model/SingleChoiceQuestion.class(in = 1640) (out= 817)(deflated 50%)
+
+ NOTA: CUANDO USAMOS RM Y DESEAMOS BORRAR VARIAS COSAS ESTE DEBE ESTAR SEPARADO POR COMAS
+PS \mi_lab4_26_1\pregunta_2> rm pe/edu/pucp/assessment/question/model/*.class, pe/edu/pucp/assessment/question/model/*.java
+
+3.
+PS \mi_lab4_26_1\pregunta_2> javac pe/edu/pucp/assessment/teacher/model/*.java
+
+
+
+4.
+PS \mi_lab4_26_1\pregunta_2> jar cvf assessmentTeacherModel.jar pe/edu/pucp/assessment/teacher/model/*.class
+added manifest
+adding: pe/edu/pucp/assessment/teacher/model/Teacher.class(in = 620) (out= 348)(deflated 43%)
+
+PS \mi_lab4_26_1\pregunta_2> rm pe/edu/pucp/assessment/teacher/model/*.class, pe/edu/pucp/assessment/teacher/model/*.java
+
+5.
+PS 3\mi_lab4_26_1\pregunta_2> javac -cp assessmentQuestionModel.jar pe/edu/pucp/assessment/management/model/*.java
+
+4.
+PS \LAB3\mi_lab4_26_1\pregunta_2> jar cvf assessmentManagerModel.jar pe/edu/pucp/assessment/management/model/*.class
+added manifest
+adding: pe/edu/pucp/assessment/management/model/QuestionManager.class(in = 1093) (out= 603)(deflated 44%)
+
+PS C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3_GENERAL\P3_para_github\LAB3\mi_lab4_26_1\pregunta_2> rm pe/edu/pucp/assessment/management/model/*.class, pe/edu/pucp/assessment/management/model/*.java
+
+
+ME EQUIVOQUE AHORA ESTOY HACIENDO EN CMD XD
+5. C:LAB3\mi_lab4_26_1\pregunta_2>javac -cp "assessmentTeacherModel.jar;assessmentQuestionModel.jar" pe/edu/pucp/assessment/exam/model/*.java
+
+
+6. 
+C:\\LAB3\mi_lab4_26_1\pregunta_2>jar cvf assessmentExamModel.jar pe/edu/pucp/assessment/exam/model/*.class
+added manifest
+adding: pe/edu/pucp/assessment/exam/model/Assessment.class(in = 1170) (out= 512)(deflated 56%)
+adding: pe/edu/pucp/assessment/exam/model/AssessmentItem.class(in = 593) (out= 332)(deflated 44%)
+
+NOTA QUE PARA BORRAR EL CMD NO PUEDES USAR RM , DEBES USAR DEL , del archivo1 archivo2, y que las BARRAS ACA SON INVERTIDAS CON ESTO \ :))
+
+C:b\LAB3\mi_lab4_26_1\pregunta_2>del pe\edu\pucp\assessment\exam\model\*.class pe\edu\pucp\assessment\exam\model\*.java
+
+7.
+C:\mi_lab4_26_1\pregunta_2>javac -cp "assessmentTeacherModel.jar;assessmentManagerModel.jar;assessmentExamModel.jar;assessmentQuestionModel.jar" pe/edu/pucp/assessment/program/main/*.java
+
+
+paso 8: (creo un jar aun no ejecutable para poder modificar su archivo manifest)
+C:\Users\Claudia\Desktop\CLASES_PUCP\2026-2\P3_GENERAL\P3_para_github\LAB3\mi_lab4_26_1\pregunta_2>jar cvf assessmentPrincipal.jar pe/edu/pucp/assessment/program/main/*.class
+added manifest
+adding: pe/edu/pucp/assessment/program/main/AssessmentViewerConsole.class(in = 1963) (out= 1015)(deflated 48%)
+adding: pe/edu/pucp/assessment/program/main/Main.class(in = 2258) (out= 1083)(deflated 52%)
+
+
+
+
+paso 9 contenido del manifest:
+jar cvfm assessmentPrincipal.jar MANIFEST.MF pe/edu/pucp/assessment/program/main/*.class
+y finalmente  
+java -jar assessmentPrincipal.jar
+
+
+Manifest-Version: 1.0
+Created-By: 25.0.4.1 (Oracle Corporation)
+Class-Path: assessmentExamModel.jar assessmentManagerModel.jar assessmentQuestionModel.jar assessmentTeacherModel.jar
+Main-Class: pe.edu.pucp.assessment.program.main
+
